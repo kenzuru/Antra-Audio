@@ -1,0 +1,12 @@
+
+    There are millions of pieces of space junk orbiting Earth. Some pieces are very small, like flakes of paint, and some are very large, like old satellites, rocket parts, or even broken spacecraft. All of these pieces move extremely fast, often several kilometers per second. Even a tiny piece can damage or destroy a working satellite. Satellites are very important because they help with GPS, weather forecasts, television, internet, and other technologies we use every day.
+
+When two pieces of space debris collide, they can break into thousands of smaller pieces. This can create a dangerous chain reaction called the Kessler syndrome. In this situation, space becomes more and more crowded, and it becomes harder and riskier to launch new satellites or operate existing ones.
+
+Most space debris burns up when it re-enters Earth’s atmosphere because of friction and heat. However, large pieces, like old satellites or rocket parts, can survive re-entry and fall to the ground. These objects can be dangerous if they land in populated areas, although this happens rarely.
+
+Scientists and engineers are looking for ways to solve the problem of space debris. One idea is to use lasers to push small debris out of orbit so it burns up in the atmosphere safely. Another idea is to use space tug boats to move large objects to safer orbits where they will not collide with other satellites. Some companies and space agencies are also working on ways to repair or refuel satellites in space so they last longer and do not turn into junk.
+
+Reducing the creation of new space debris is also very important. Countries and companies need to follow rules about satellite design, safe orbits, and controlled re-entry. By improving international cooperation and rules, it is possible to keep space cleaner and safer.
+
+If we do not act, space debris could make some parts of Earth’s orbit very dangerous, slowing down or stopping important space missions. By cleaning up old debris, controlling new satellites, and designing satellites carefully, we can protect space for future generations. Keeping Earth’s orbit safe is important for astronauts, scientists, communication systems, and even for our daily life on the planet.
