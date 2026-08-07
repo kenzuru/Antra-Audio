@@ -1,0 +1,1287 @@
+[
+  {
+    "word": "harry",
+    "start": 0.12,
+    "end": 0.36
+  },
+  {
+    "word": "cannot",
+    "start": 0.36,
+    "end": 0.69
+  },
+  {
+    "word": "stop",
+    "start": 0.69,
+    "end": 1.05
+  },
+  {
+    "word": "thinking",
+    "start": 1.05,
+    "end": 1.47
+  },
+  {
+    "word": "about",
+    "start": 1.47,
+    "end": 1.74
+  },
+  {
+    "word": "everything",
+    "start": 1.8,
+    "end": 2.28
+  },
+  {
+    "word": "he",
+    "start": 2.28,
+    "end": 2.4
+  },
+  {
+    "word": "learned",
+    "start": 2.4,
+    "end": 2.85
+  },
+  {
+    "word": "for",
+    "start": 3.21,
+    "end": 3.36
+  },
+  {
+    "word": "many",
+    "start": 3.379,
+    "end": 3.63
+  },
+  {
+    "word": "years",
+    "start": 3.63,
+    "end": 4.17
+  },
+  {
+    "word": "he",
+    "start": 4.47,
+    "end": 4.59
+  },
+  {
+    "word": "believed",
+    "start": 4.59,
+    "end": 5.04
+  },
+  {
+    "word": "he",
+    "start": 5.04,
+    "end": 5.13
+  },
+  {
+    "word": "was",
+    "start": 5.13,
+    "end": 5.28
+  },
+  {
+    "word": "a",
+    "start": 5.28,
+    "end": 5.31
+  },
+  {
+    "word": "normal",
+    "start": 5.329,
+    "end": 5.7
+  },
+  {
+    "word": "boy",
+    "start": 5.7,
+    "end": 6.09
+  },
+  {
+    "word": "now",
+    "start": 6.42,
+    "end": 6.661
+  },
+  {
+    "word": "he",
+    "start": 6.661,
+    "end": 6.747
+  },
+  {
+    "word": "knew",
+    "start": 6.747,
+    "end": 7.14
+  },
+  {
+    "word": "that",
+    "start": 7.14,
+    "end": 7.26
+  },
+  {
+    "word": "he",
+    "start": 7.26,
+    "end": 7.41
+  },
+  {
+    "word": "was",
+    "start": 7.41,
+    "end": 7.56
+  },
+  {
+    "word": "part",
+    "start": 7.56,
+    "end": 7.77
+  },
+  {
+    "word": "of",
+    "start": 7.77,
+    "end": 7.83
+  },
+  {
+    "word": "a",
+    "start": 7.83,
+    "end": 7.89
+  },
+  {
+    "word": "world",
+    "start": 7.89,
+    "end": 8.46
+  },
+  {
+    "word": "full",
+    "start": 8.52,
+    "end": 8.91
+  },
+  {
+    "word": "of",
+    "start": 8.91,
+    "end": 9.0
+  },
+  {
+    "word": "magic",
+    "start": 9.0,
+    "end": 9.54
+  },
+  {
+    "word": "hagrid",
+    "start": 9.9,
+    "end": 10.26
+  },
+  {
+    "word": "took",
+    "start": 10.26,
+    "end": 10.5
+  },
+  {
+    "word": "harry",
+    "start": 10.5,
+    "end": 10.83
+  },
+  {
+    "word": "to",
+    "start": 10.83,
+    "end": 10.98
+  },
+  {
+    "word": "london",
+    "start": 10.98,
+    "end": 11.43
+  },
+  {
+    "word": "to",
+    "start": 11.43,
+    "end": 11.52
+  },
+  {
+    "word": "prepare",
+    "start": 11.52,
+    "end": 11.97
+  },
+  {
+    "word": "him",
+    "start": 11.97,
+    "end": 12.24
+  },
+  {
+    "word": "for",
+    "start": 12.45,
+    "end": 12.6
+  },
+  {
+    "word": "his",
+    "start": 12.6,
+    "end": 12.69
+  },
+  {
+    "word": "new",
+    "start": 12.69,
+    "end": 12.87
+  },
+  {
+    "word": "life",
+    "start": 12.87,
+    "end": 13.32
+  },
+  {
+    "word": "harry",
+    "start": 13.71,
+    "end": 14.01
+  },
+  {
+    "word": "so",
+    "start": 14.01,
+    "end": 14.22
+  },
+  {
+    "word": "many",
+    "start": 14.22,
+    "end": 14.49
+  },
+  {
+    "word": "strange",
+    "start": 14.49,
+    "end": 15.33
+  },
+  {
+    "word": "and",
+    "start": 15.45,
+    "end": 15.6
+  },
+  {
+    "word": "amazing",
+    "start": 15.6,
+    "end": 16.17
+  },
+  {
+    "word": "things",
+    "start": 16.17,
+    "end": 16.92
+  },
+  {
+    "word": "the",
+    "start": 17.28,
+    "end": 17.43
+  },
+  {
+    "word": "wizard",
+    "start": 17.43,
+    "end": 17.76
+  },
+  {
+    "word": "world",
+    "start": 17.76,
+    "end": 18.24
+  },
+  {
+    "word": "was",
+    "start": 18.27,
+    "end": 18.51
+  },
+  {
+    "word": "hidden",
+    "start": 18.51,
+    "end": 18.81
+  },
+  {
+    "word": "inside",
+    "start": 18.81,
+    "end": 19.5
+  },
+  {
+    "word": "the",
+    "start": 19.5,
+    "end": 19.59
+  },
+  {
+    "word": "normal",
+    "start": 19.59,
+    "end": 20.01
+  },
+  {
+    "word": "way",
+    "start": 20.01,
+    "end": 20.16
+  },
+  {
+    "word": "world",
+    "start": 20.16,
+    "end": 20.46
+  },
+  {
+    "word": "and",
+    "start": 20.79,
+    "end": 20.94
+  },
+  {
+    "word": "most",
+    "start": 20.94,
+    "end": 21.18
+  },
+  {
+    "word": "people",
+    "start": 21.18,
+    "end": 21.45
+  },
+  {
+    "word": "did",
+    "start": 21.45,
+    "end": 21.63
+  },
+  {
+    "word": "not",
+    "start": 21.63,
+    "end": 22.02
+  },
+  {
+    "word": "know",
+    "start": 22.02,
+    "end": 22.17
+  },
+  {
+    "word": "existed",
+    "start": 22.17,
+    "end": 22.77
+  },
+  {
+    "word": "when",
+    "start": 23.13,
+    "end": 23.28
+  },
+  {
+    "word": "the",
+    "start": 23.28,
+    "end": 23.37
+  },
+  {
+    "word": "first",
+    "start": 23.37,
+    "end": 23.7
+  },
+  {
+    "word": "place",
+    "start": 23.7,
+    "end": 23.97
+  },
+  {
+    "word": "is",
+    "start": 23.97,
+    "end": 24.09
+  },
+  {
+    "word": "harry",
+    "start": 24.09,
+    "end": 24.36
+  },
+  {
+    "word": "visited",
+    "start": 24.36,
+    "end": 24.87
+  },
+  {
+    "word": "was",
+    "start": 24.93,
+    "end": 25.23
+  },
+  {
+    "word": "diagonally",
+    "start": 25.23,
+    "end": 26.19
+  },
+  {
+    "word": "it",
+    "start": 26.52,
+    "end": 26.67
+  },
+  {
+    "word": "was",
+    "start": 26.67,
+    "end": 26.76
+  },
+  {
+    "word": "a",
+    "start": 26.76,
+    "end": 26.79
+  },
+  {
+    "word": "special",
+    "start": 26.79,
+    "end": 27.27
+  },
+  {
+    "word": "street",
+    "start": 27.27,
+    "end": 27.78
+  },
+  {
+    "word": "for",
+    "start": 27.84,
+    "end": 28.05
+  },
+  {
+    "word": "witches",
+    "start": 28.05,
+    "end": 28.8
+  },
+  {
+    "word": "and",
+    "start": 28.89,
+    "end": 29.04
+  },
+  {
+    "word": "wizards",
+    "start": 29.04,
+    "end": 29.67
+  },
+  {
+    "word": "there",
+    "start": 30.03,
+    "end": 30.18
+  },
+  {
+    "word": "were",
+    "start": 30.18,
+    "end": 30.3
+  },
+  {
+    "word": "many",
+    "start": 30.3,
+    "end": 30.63
+  },
+  {
+    "word": "magical",
+    "start": 30.63,
+    "end": 31.05
+  },
+  {
+    "word": "shops",
+    "start": 31.05,
+    "end": 31.488
+  },
+  {
+    "word": "selling",
+    "start": 31.488,
+    "end": 31.83
+  },
+  {
+    "word": "books",
+    "start": 31.83,
+    "end": 32.4
+  },
+  {
+    "word": "close",
+    "start": 32.52,
+    "end": 33.33
+  },
+  {
+    "word": "tools",
+    "start": 33.45,
+    "end": 34.14
+  },
+  {
+    "word": "and",
+    "start": 34.29,
+    "end": 34.5
+  },
+  {
+    "word": "other",
+    "start": 34.5,
+    "end": 34.74
+  },
+  {
+    "word": "things",
+    "start": 34.74,
+    "end": 35.01
+  },
+  {
+    "word": "harry",
+    "start": 35.01,
+    "end": 35.31
+  },
+  {
+    "word": "had",
+    "start": 35.31,
+    "end": 35.43
+  },
+  {
+    "word": "never",
+    "start": 35.43,
+    "end": 35.7
+  },
+  {
+    "word": "seen",
+    "start": 35.7,
+    "end": 35.94
+  },
+  {
+    "word": "before",
+    "start": 35.94,
+    "end": 36.45
+  },
+  {
+    "word": "harry",
+    "start": 36.81,
+    "end": 37.11
+  },
+  {
+    "word": "needed",
+    "start": 37.11,
+    "end": 37.44
+  },
+  {
+    "word": "many",
+    "start": 37.44,
+    "end": 37.86
+  },
+  {
+    "word": "things",
+    "start": 37.86,
+    "end": 38.31
+  },
+  {
+    "word": "for",
+    "start": 38.31,
+    "end": 38.46
+  },
+  {
+    "word": "hogwarts",
+    "start": 38.46,
+    "end": 39.24
+  },
+  {
+    "word": "the",
+    "start": 39.39,
+    "end": 39.48
+  },
+  {
+    "word": "school",
+    "start": 39.48,
+    "end": 39.9
+  },
+  {
+    "word": "of",
+    "start": 39.9,
+    "end": 39.99
+  },
+  {
+    "word": "match",
+    "start": 39.99,
+    "end": 40.32
+  },
+  {
+    "word": "rick",
+    "start": 40.32,
+    "end": 40.53
+  },
+  {
+    "word": "he",
+    "start": 40.86,
+    "end": 40.98
+  },
+  {
+    "word": "bought",
+    "start": 40.98,
+    "end": 41.16
+  },
+  {
+    "word": "a",
+    "start": 41.16,
+    "end": 41.19
+  },
+  {
+    "word": "wand",
+    "start": 41.19,
+    "end": 41.7
+  },
+  {
+    "word": "school",
+    "start": 41.76,
+    "end": 42.18
+  },
+  {
+    "word": "books",
+    "start": 42.18,
+    "end": 42.72
+  },
+  {
+    "word": "and",
+    "start": 42.87,
+    "end": 42.99
+  },
+  {
+    "word": "a",
+    "start": 42.99,
+    "end": 43.05
+  },
+  {
+    "word": "uniform",
+    "start": 43.05,
+    "end": 43.56
+  },
+  {
+    "word": "everything",
+    "start": 43.92,
+    "end": 44.4
+  },
+  {
+    "word": "felt",
+    "start": 44.4,
+    "end": 44.76
+  },
+  {
+    "word": "new",
+    "start": 44.79,
+    "end": 45.39
+  },
+  {
+    "word": "and",
+    "start": 45.48,
+    "end": 45.63
+  },
+  {
+    "word": "exciting",
+    "start": 45.63,
+    "end": 46.26
+  },
+  {
+    "word": "harry",
+    "start": 46.65,
+    "end": 46.95
+  },
+  {
+    "word": "also",
+    "start": 46.95,
+    "end": 47.28
+  },
+  {
+    "word": "visited",
+    "start": 47.31,
+    "end": 47.79
+  },
+  {
+    "word": "a",
+    "start": 47.82,
+    "end": 47.94
+  },
+  {
+    "word": "wizard",
+    "start": 47.94,
+    "end": 48.39
+  },
+  {
+    "word": "bank",
+    "start": 48.39,
+    "end": 48.87
+  },
+  {
+    "word": "called",
+    "start": 48.93,
+    "end": 49.23
+  },
+  {
+    "word": "green",
+    "start": 49.23,
+    "end": 49.5
+  },
+  {
+    "word": "dots",
+    "start": 49.5,
+    "end": 50.01
+  },
+  {
+    "word": "their",
+    "start": 50.37,
+    "end": 50.82
+  },
+  {
+    "word": "he",
+    "start": 51.09,
+    "end": 51.21
+  },
+  {
+    "word": "discovered",
+    "start": 51.21,
+    "end": 51.69
+  },
+  {
+    "word": "that",
+    "start": 51.69,
+    "end": 51.81
+  },
+  {
+    "word": "his",
+    "start": 51.81,
+    "end": 51.9
+  },
+  {
+    "word": "parents",
+    "start": 51.9,
+    "end": 52.38
+  },
+  {
+    "word": "have",
+    "start": 52.38,
+    "end": 52.53
+  },
+  {
+    "word": "left",
+    "start": 52.53,
+    "end": 52.86
+  },
+  {
+    "word": "money",
+    "start": 52.89,
+    "end": 53.28
+  },
+  {
+    "word": "for",
+    "start": 53.28,
+    "end": 53.49
+  },
+  {
+    "word": "him",
+    "start": 53.49,
+    "end": 53.76
+  },
+  {
+    "word": "for",
+    "start": 54.09,
+    "end": 54.21
+  },
+  {
+    "word": "the",
+    "start": 54.21,
+    "end": 54.27
+  },
+  {
+    "word": "first",
+    "start": 54.27,
+    "end": 54.54
+  },
+  {
+    "word": "time",
+    "start": 54.54,
+    "end": 54.75
+  },
+  {
+    "word": "his",
+    "start": 54.75,
+    "end": 54.9
+  },
+  {
+    "word": "life",
+    "start": 54.9,
+    "end": 55.38
+  },
+  {
+    "word": "harry",
+    "start": 55.68,
+    "end": 56.04
+  },
+  {
+    "word": "had",
+    "start": 56.04,
+    "end": 56.25
+  },
+  {
+    "word": "something",
+    "start": 56.25,
+    "end": 56.79
+  },
+  {
+    "word": "that",
+    "start": 56.79,
+    "end": 56.97
+  },
+  {
+    "word": "belonged",
+    "start": 56.97,
+    "end": 57.475
+  },
+  {
+    "word": "to",
+    "start": 57.475,
+    "end": 57.57
+  },
+  {
+    "word": "him",
+    "start": 57.57,
+    "end": 57.84
+  },
+  {
+    "word": "while",
+    "start": 58.2,
+    "end": 58.41
+  },
+  {
+    "word": "walking",
+    "start": 58.41,
+    "end": 58.8
+  },
+  {
+    "word": "through",
+    "start": 58.8,
+    "end": 59.1
+  },
+  {
+    "word": "diagonally",
+    "start": 59.1,
+    "end": 60.06
+  },
+  {
+    "word": "huh",
+    "start": 60.33,
+    "end": 60.48
+  },
+  {
+    "word": "three",
+    "start": 60.48,
+    "end": 60.6
+  },
+  {
+    "word": "noticed",
+    "start": 60.6,
+    "end": 61.02
+  },
+  {
+    "word": "that",
+    "start": 61.02,
+    "end": 61.2
+  },
+  {
+    "word": "many",
+    "start": 61.2,
+    "end": 61.65
+  },
+  {
+    "word": "people",
+    "start": 61.65,
+    "end": 61.98
+  },
+  {
+    "word": "knew",
+    "start": 61.98,
+    "end": 62.34
+  },
+  {
+    "word": "who",
+    "start": 62.34,
+    "end": 62.49
+  },
+  {
+    "word": "he",
+    "start": 62.49,
+    "end": 62.61
+  },
+  {
+    "word": "was",
+    "start": 62.61,
+    "end": 63.09
+  },
+  {
+    "word": "there",
+    "start": 63.48,
+    "end": 63.63
+  },
+  {
+    "word": "were",
+    "start": 63.63,
+    "end": 63.69
+  },
+  {
+    "word": "surprised",
+    "start": 63.7,
+    "end": 64.26
+  },
+  {
+    "word": "to",
+    "start": 64.26,
+    "end": 64.32
+  },
+  {
+    "word": "see",
+    "start": 64.32,
+    "end": 64.59
+  },
+  {
+    "word": "him",
+    "start": 64.59,
+    "end": 64.86
+  },
+  {
+    "word": "and",
+    "start": 64.95,
+    "end": 65.13
+  },
+  {
+    "word": "treated",
+    "start": 65.13,
+    "end": 65.52
+  },
+  {
+    "word": "him",
+    "start": 65.52,
+    "end": 65.61
+  },
+  {
+    "word": "like",
+    "start": 65.61,
+    "end": 65.76
+  },
+  {
+    "word": "someone",
+    "start": 65.76,
+    "end": 66.09
+  },
+  {
+    "word": "important",
+    "start": 66.09,
+    "end": 66.6
+  },
+  {
+    "word": "harry",
+    "start": 66.99,
+    "end": 67.23
+  },
+  {
+    "word": "did",
+    "start": 67.23,
+    "end": 67.38
+  },
+  {
+    "word": "not",
+    "start": 67.38,
+    "end": 67.68
+  },
+  {
+    "word": "understand",
+    "start": 67.68,
+    "end": 68.34
+  },
+  {
+    "word": "why",
+    "start": 68.52,
+    "end": 68.82
+  },
+  {
+    "word": "people",
+    "start": 68.82,
+    "end": 69.15
+  },
+  {
+    "word": "cared",
+    "start": 69.15,
+    "end": 69.39
+  },
+  {
+    "word": "about",
+    "start": 69.39,
+    "end": 69.63
+  },
+  {
+    "word": "him",
+    "start": 69.63,
+    "end": 69.81
+  },
+  {
+    "word": "so",
+    "start": 69.84,
+    "end": 70.17
+  },
+  {
+    "word": "much",
+    "start": 70.17,
+    "end": 70.62
+  },
+  {
+    "word": "he",
+    "start": 71.01,
+    "end": 71.16
+  },
+  {
+    "word": "only",
+    "start": 71.16,
+    "end": 71.34
+  },
+  {
+    "word": "wanted",
+    "start": 71.34,
+    "end": 71.55
+  },
+  {
+    "word": "to",
+    "start": 71.55,
+    "end": 71.61
+  },
+  {
+    "word": "learn",
+    "start": 71.61,
+    "end": 71.79
+  },
+  {
+    "word": "more",
+    "start": 71.79,
+    "end": 72.06
+  },
+  {
+    "word": "about",
+    "start": 72.06,
+    "end": 72.3
+  },
+  {
+    "word": "his",
+    "start": 72.3,
+    "end": 72.39
+  },
+  {
+    "word": "parents",
+    "start": 72.39,
+    "end": 73.05
+  },
+  {
+    "word": "in",
+    "start": 73.14,
+    "end": 73.29
+  },
+  {
+    "word": "this",
+    "start": 73.29,
+    "end": 73.44
+  },
+  {
+    "word": "new",
+    "start": 73.44,
+    "end": 73.68
+  },
+  {
+    "word": "world",
+    "start": 73.68,
+    "end": 74.19
+  },
+  {
+    "word": "hagrid",
+    "start": 74.55,
+    "end": 74.91
+  },
+  {
+    "word": "helped",
+    "start": 74.91,
+    "end": 75.15
+  },
+  {
+    "word": "harry",
+    "start": 75.15,
+    "end": 75.6
+  },
+  {
+    "word": "choose",
+    "start": 75.69,
+    "end": 76.14
+  },
+  {
+    "word": "his",
+    "start": 76.14,
+    "end": 76.29
+  },
+  {
+    "word": "first",
+    "start": 76.29,
+    "end": 76.65
+  },
+  {
+    "word": "want",
+    "start": 76.65,
+    "end": 77.07
+  },
+  {
+    "word": "harry",
+    "start": 77.43,
+    "end": 77.73
+  },
+  {
+    "word": "felt",
+    "start": 77.73,
+    "end": 78.12
+  },
+  {
+    "word": "that",
+    "start": 78.12,
+    "end": 78.3
+  },
+  {
+    "word": "this",
+    "start": 78.3,
+    "end": 78.57
+  },
+  {
+    "word": "was",
+    "start": 78.57,
+    "end": 78.72
+  },
+  {
+    "word": "the",
+    "start": 78.72,
+    "end": 78.81
+  },
+  {
+    "word": "beginning",
+    "start": 78.81,
+    "end": 79.47
+  },
+  {
+    "word": "of",
+    "start": 79.47,
+    "end": 79.62
+  },
+  {
+    "word": "something",
+    "start": 79.62,
+    "end": 80.04
+  },
+  {
+    "word": "special",
+    "start": 80.04,
+    "end": 80.64
+  },
+  {
+    "word": "before",
+    "start": 81.06,
+    "end": 81.39
+  },
+  {
+    "word": "this",
+    "start": 81.39,
+    "end": 81.6
+  },
+  {
+    "word": "day",
+    "start": 81.6,
+    "end": 81.99
+  },
+  {
+    "word": "harry",
+    "start": 82.29,
+    "end": 82.59
+  },
+  {
+    "word": "felt",
+    "start": 82.59,
+    "end": 82.92
+  },
+  {
+    "word": "alone",
+    "start": 82.92,
+    "end": 83.49
+  },
+  {
+    "word": "and",
+    "start": 83.58,
+    "end": 83.76
+  },
+  {
+    "word": "different",
+    "start": 83.76,
+    "end": 84.27
+  },
+  {
+    "word": "now",
+    "start": 84.63,
+    "end": 84.84
+  },
+  {
+    "word": "he",
+    "start": 84.84,
+    "end": 84.96
+  },
+  {
+    "word": "had",
+    "start": 84.96,
+    "end": 85.05
+  },
+  {
+    "word": "a",
+    "start": 85.05,
+    "end": 85.08
+  },
+  {
+    "word": "place",
+    "start": 85.08,
+    "end": 85.47
+  },
+  {
+    "word": "where",
+    "start": 85.47,
+    "end": 85.62
+  },
+  {
+    "word": "he",
+    "start": 85.62,
+    "end": 85.71
+  },
+  {
+    "word": "belongs",
+    "start": 85.71,
+    "end": 86.28
+  },
+  {
+    "word": "soon",
+    "start": 86.61,
+    "end": 87.18
+  },
+  {
+    "word": "harry",
+    "start": 87.48,
+    "end": 87.72
+  },
+  {
+    "word": "would",
+    "start": 87.72,
+    "end": 87.87
+  },
+  {
+    "word": "leave",
+    "start": 87.87,
+    "end": 88.14
+  },
+  {
+    "word": "for",
+    "start": 88.14,
+    "end": 88.29
+  },
+  {
+    "word": "hogwarts",
+    "start": 88.29,
+    "end": 88.98
+  },
+  {
+    "word": "and",
+    "start": 89.1,
+    "end": 89.25
+  },
+  {
+    "word": "begin",
+    "start": 89.25,
+    "end": 89.61
+  },
+  {
+    "word": "the",
+    "start": 89.61,
+    "end": 89.7
+  },
+  {
+    "word": "biggest",
+    "start": 89.7,
+    "end": 90.27
+  },
+  {
+    "word": "adventure",
+    "start": 90.27,
+    "end": 90.72
+  },
+  {
+    "word": "of",
+    "start": 90.72,
+    "end": 90.81
+  },
+  {
+    "word": "his",
+    "start": 90.81,
+    "end": 90.9
+  },
+  {
+    "word": "life",
+    "start": 90.9,
+    "end": 91.35
+  }
+]
